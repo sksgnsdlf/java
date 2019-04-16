@@ -1,0 +1,1 @@
+Dao -> Dto -> 테이블Dao(ex.AttendenceDao) -> interface 생성 -> 테이블작업할꺼(ex.AttendenceDelete) -> main
